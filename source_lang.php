@@ -1,7 +1,7 @@
 <html>
 <body>
 <?php
-show_source("index.php");
+scandir('./');
 ?>
 </body>
 </html>
